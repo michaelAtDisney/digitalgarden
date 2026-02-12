@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/defense-against-the-dark-arts-teacher-ranking/","title":"Defense Against the Dark Arts Teacher Ranking","tags":["harry-potter","analysis","humor","rankings","gardenEntry"]}
+{"dg-publish":true,"permalink":"/books/defense-against-the-dark-arts-teacher-ranking/","title":"Defense Against the Dark Arts Teacher Ranking","tags":["harry-potter","analysis","humor","rankings"]}
 ---
 
 # Defense Against the Dark Arts Teachers: Ranked
