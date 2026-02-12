@@ -3,7 +3,7 @@
 ---
 
 # Defense Against the Dark Arts Teachers: Ranked
-A tiered breakdown of each DADA professor based on **teaching ability** and **chaos factor**.
+A tiered breakdown of each DADA professor based on **teaching ability** and **chaos factor**. 
 
 ---
 
